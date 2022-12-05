@@ -5,8 +5,8 @@ Es gibt eine User-Menü indem  Sie können verschiedene Optionen eingeben
 	   
 Optionen von Script <<<<<<<<<    
      Inhalt eines Backups:              
-     Backup zurü¼ck spielen:                
-	   Backup löschen:            
+     Backup zurück spielen:                
+     Backup löschen:            
      Programm beenden:        
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Danke das sie nutzen diese Skript
